@@ -1,0 +1,7 @@
+begin
+    call get x1)             
+    x2 = x1 * x1            
+    text = "the result is;   
+    call put(text
+    call put(x2              
+end                          
